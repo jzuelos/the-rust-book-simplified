@@ -1,2 +1,34 @@
-# the-rust-book-simplified
-Simplified explanations from The Rust Programming Language book, word-to-word, code-to-code, everything important in less time. Follow tweets from https://x.com/praptichilling to answer quiz questions!
+# The Rust Book - Simplified 🦀
+
+[![Rust](https://img.shields.io/badge/language-Rust-orange?style=flat-square\&logo=rust)](https://www.rust-lang.org/)
+[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
+[![Status](https://img.shields.io/badge/project-active-success?style=flat-square)](#)
+
+---
+
+This repository is strictly based on the official [**Rust Book**](https://doc.rust-lang.org/book/), which remains the best resource for learning the Rust programming language.
+The goal here is simple, make Rust easier to understand without losing any of its depth or accuracy.
+
+If you’re extremely new to Rust(this repository will be enough though), I recommend watching any of these two YouTube playlists:
+
+* [Let’s Get Rusty — Complete Rust Course](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
+* [Brooks Builds — Rust for Beginners](https://www.youtube.com/playlist?list=PLAJ-sYO1aGdxQ_skPPtJ7PlSAjTXM-atv)
+
+---
+
+## Learn, Practice, Improve
+
+If you want to test your Rust knowledge with regular quizzes and MCQs, follow along here:
+**[praptichilling](https://x.com/praptichilling)**
+
+---
+
+## Why This Exists
+
+Rust is hard? Want to read the rust book? Want to save your time? Wanna learn along? Don't worry, I got you.
+
+---
+
+If you find this repository helpful, consider **starring** ⭐ it to support the content.
+
+Thanks, happy learning - let’s get rusty 🦀
