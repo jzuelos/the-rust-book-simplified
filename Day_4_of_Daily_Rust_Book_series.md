@@ -1,5 +1,5 @@
 # **Chapter 4 (Part 1)**
-# Understanding Ownership**
+# **Understanding Ownership**
 
 We are going to cover: 
 
