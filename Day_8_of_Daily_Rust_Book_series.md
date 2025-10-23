@@ -1,4 +1,4 @@
-# Day 7 - Enums and Pattern Matching
+# Day 7 -Managing Growing Projects with Packages, Crates, and Modules
 
 ## 1. Introduction
 
