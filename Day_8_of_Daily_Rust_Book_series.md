@@ -159,3 +159,13 @@ A folder named ```front_of_house``` containing a ```mod.rs``` or nested modules.
 This keeps your codebase modular and easy to navigate — just like storing things in labeled boxes instead of one giant drawer.
 
 
+## 7. Summary
+
+| Concept       | Think of it like…       | What it does                         |
+|---------------|-------------------------|------------------------------------|
+| Package       | A full project          | Groups crates, has `Cargo.toml`    |
+| Crate         | A house                 | A binary or library of Rust code   |
+| Module        | A room in the house     | Organizes related code              |
+| Path          | The address             | Shows how to reach an item          |
+| `use` keyword | Shortcut                | Brings names into scope             |
+| Separate files| Different rooms         | Keeps your code tidy                |
