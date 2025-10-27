@@ -1,8 +1,11 @@
-# Day 8 -Managing Growing Projects with Packages, Crates, and Modules
+# Day 8 - Chapter 7: Managing Growing Projects with Packages, Crates, and Modules
 
 ## 1. Introduction
 
 Today, we’re going to cover one of the most important parts of learning Rust — how to organize your code as your project grows.
+
+
+<img width="258" height="253" alt="Screenshot 2025-10-27 at 4 06 53 PM" src="https://github.com/user-attachments/assets/7f8d29e3-1bf3-4071-9c76-47af59847c22" />
 
 When you first start writing Rust, everything might fit nicely in a single main.rs file. But as your program gets bigger, things can quickly get messy. That’s where packages, crates, and modules come in.
 
