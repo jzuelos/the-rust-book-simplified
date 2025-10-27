@@ -9,8 +9,6 @@ Today, we’re going to cover one of the most important parts of learning Rust �
 
 When you first start writing Rust, everything might fit nicely in a single main.rs file. But as your program gets bigger, things can quickly get messy. That’s where packages, crates, and modules come in.
 
-<img width="568" height="576" alt="image" src="https://github.com/user-attachments/assets/924a8081-e361-479c-8344-cf78c5955726" />
-
 ## 2. Packages and Crates
 
 Packages are the containers that hold your Rust projects. 
