@@ -1,4 +1,4 @@
-# Day 7 -Managing Growing Projects with Packages, Crates, and Modules
+# Day 8 -Managing Growing Projects with Packages, Crates, and Modules
 
 ## 1. Introduction
 
