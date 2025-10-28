@@ -4,7 +4,7 @@ We will cover:
 
 <img width="252" height="120" alt="Screenshot 2025-10-27 at 7 51 53 PM" src="https://github.com/user-attachments/assets/8d69faa9-5903-4f52-9d13-751b58df406d" />
 
-## Part 1: Generics, Traits, and Lifetimes
+## Part 1: Generics, Traits
 
 Rust provides **powerful abstraction tools** that let you write flexible and reusable code **without sacrificing performance**.
 The three main concepts we’ll study are:
